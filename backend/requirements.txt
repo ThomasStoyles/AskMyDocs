@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+openai
+pypdf
+faiss-cpu
+python-multipart
+python-dotenv
+scikit-learn

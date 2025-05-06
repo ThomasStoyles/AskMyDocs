@@ -1,0 +1,39 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# IDE/editor settings
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Git stuff
+.git
+.gitignore
+
+# Testing and coverage
+*.log
+*.sqlite3
+.coverage
+.pytest_cache/
+.tox/
+coverage.xml
+htmlcov/
+
+# Docker-related
+.dockerignore
+Dockerfile
+
+# Misc
+*.tar

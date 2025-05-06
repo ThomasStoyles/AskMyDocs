@@ -1,0 +1,73 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# C extensions
+*.c
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre
+.pyre/
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+
+# Local development artifacts
+instance/
+.webassets-cache
+*.db
+*.sqlite3
+
+# Docker-related
+*.tar
+__docker_build__/
+
+# Ignore compiled docs
+docs/_build/
+
+# System files
+.DS_Store
+Thumbs.db
