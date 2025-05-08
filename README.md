@@ -43,7 +43,7 @@ AskMyPDF is an AI-powered web app that allows users to upload a PDF and ask natu
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/askmypdf.git
+git clone https://github.com/ThomasStoyles/askmypdf.git
 cd askmypdf
 ```
 
