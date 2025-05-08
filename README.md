@@ -40,6 +40,13 @@ AskMyPDF is an AI-powered web app that allows users to upload a PDF and ask natu
 
 ## 💻 Running Locally
 
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/your-username/askmypdf.git
+cd askmypdf
+```
+
 ### 2. Set Up Virtual Environment
 
 ```bash
@@ -75,7 +82,7 @@ Then open [http://localhost:8501](http://localhost:8501) in your browser.
 
 ## 📸 Screenshots
 
-*(Add GIFs or screenshots here for visual impact)*
+*coming soon*
 
 ---
 
